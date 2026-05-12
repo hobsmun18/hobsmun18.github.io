@@ -1,0 +1,19 @@
+---
+title: "Stuff I've Done"
+toc: false
+about:
+  template: marquee
+---
+
+```{r leaf, echo=FALSE, out.width = '100%'}
+knitr::include_graphics("media/leaf_x.jpg", error = FALSE)
+```
+
+
+Here's a list of courses I've taught at CSU:
+
+```         
+- F312, Dendrology, 4 semesters
+- NR130, Global Environmental Systems, 1 semester
+- NR220, Natural Resource Ecology and Measurements, 8 sessions
+```

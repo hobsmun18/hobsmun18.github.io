@@ -1,0 +1,23 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Dan Spitzer",
+    "section": "",
+    "text": "Hello there! My name is Dan and I’m a PhD student in the WCNR. I study ecophysiology with a focus on grass microanatomy, but I have a real passion for teaching."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "This website draft was created for ESS 523A, a super useful course for learning about coding in R."
+  },
+  {
+    "objectID": "accom.html",
+    "href": "accom.html",
+    "title": "Stuff I’ve Done",
+    "section": "",
+    "text": "Here’s a list of courses I’ve taught at CSU:\n- F312, Dendrology, 4 semesters\n- NR130, Global Environmental Systems, 1 semester\n- NR220, Natural Resource Ecology and Measurements, 8 sessions"
+  }
+]
