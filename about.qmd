@@ -2,6 +2,6 @@
 title: "About"
 ---
 
-This website draft was created for ESS 523A, a super useful course for learning about coding in R. Boop
+This website draft was created for ESS 523A, a super useful course for learning about coding in R.
 
 

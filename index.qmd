@@ -1,11 +1,14 @@
 ---
-title: "hobsmun18.github.io"
+title: "Dan Spitzer"
+image: media/dweeb.JPG
+toc: false
+about:
+  template: marquee
+  image-shape: round
 ---
 
-This is a Quarto website.
+Hello there! My name is Dan and I'm a PhD student in the WCNR. I study ecophysiology with a focus on grass microanatomy, but I have a real passion for teaching.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
 
-```{r}
-1 + 1
-```
+
+
