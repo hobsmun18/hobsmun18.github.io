@@ -2,8 +2,6 @@
 title: "About"
 ---
 
-About this site
+This website draft was created for ESS 523A, a super useful course for learning about coding in R. Boop
 
-```{r}
-1 + 1
-```
+
